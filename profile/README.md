@@ -1,3 +1,4 @@
+![Omni-kit Logo](./Omnikit%202.svg)
 ![Cover Page](./Omnikit%20Banner.png)
 
 # Omni-kit: Simplifying Cross-Chain Smart Contract Development
